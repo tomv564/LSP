@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://sublimelsp.github.io/LSP/</loc>
+     <lastmod>2021-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://sublimelsp.github.io/LSP/language_servers/</loc>
+     <lastmod>2021-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://sublimelsp.github.io/LSP/features/</loc>
+     <lastmod>2021-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://sublimelsp.github.io/LSP/customization/</loc>
+     <lastmod>2021-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://sublimelsp.github.io/LSP/guides/client_configuration/</loc>
+     <lastmod>2021-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://sublimelsp.github.io/LSP/guides/cplusplus/</loc>
+     <lastmod>2021-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://sublimelsp.github.io/LSP/lsp_implementation_status/</loc>
+     <lastmod>2021-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://sublimelsp.github.io/LSP/troubleshooting/</loc>
+     <lastmod>2021-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
